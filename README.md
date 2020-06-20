@@ -23,3 +23,5 @@ The extension can be found in both the Chrome Web Store and the Firefox Addons S
 Enjoy the skin! 🎉
 # Note
 For Client based Spotify support make sure to install Spicetify-cli from https://github.com/khanhas/spicetify-cli.
+
+![alt text](https://i.imgur.com/L9x3PMP.png)
