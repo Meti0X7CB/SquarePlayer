@@ -8,8 +8,7 @@ A cool controller for all your online music. Supports all major media web player
 # Features
 - Beautiful Dynamic Cover-based UI colors
 - Full Spotify (Desktop & Web Player) support
-- Full Google Play Music Desktop Player & Web Player support
-- Full Youtube, Soundcloud, and other web music players
+- Full Youtube, Youtube Music, Soundcloud, and other web music players
 - Media controls & song progress bar
 - Full Volume control in all supporrted players
 - Hide skin when media player is not running
