@@ -14,7 +14,7 @@ An sleek square player to control all your music. It supports all major music cl
 - Rainmeter 4.5.17.3700 or higher
 ## Features
 - Interactive and responsive and fully scalable UI
-- Full Spotify, Apple Music, Youtube Music, Soundcloud, and many web based clients
+- Fully supports Spotify, Apple Music, Youtube Music, Soundcloud, and many web based clients
 - Stylis and customizable Media controls & song progress bar 
 - Automatic activity detection to hide skin when no media is open and running
 ## Installation
