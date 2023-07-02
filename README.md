@@ -1,5 +1,5 @@
 # SquarePlayer
-An sleek square player to control all your music. It supports all major music clients including Spotify, Apple Music, Youtube Music and many more.
+A sleek square player to control all your music. It supports all major music clients including Spotify, Apple Music, Youtube Music and many more.
 
 ## Functionality
 
