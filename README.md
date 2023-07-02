@@ -1,26 +1,28 @@
-![alt text](https://i.imgur.com/Q7nQxX5.png)
-# CoolWebPlayer
-A cool controller for all your online music. Supports all major media web players, including full Spotify and YouTube support.
-# Minimum Requirements:
-- Windows 7 or higher.
-- Rainmeter 4.3 Beta (r3298) or higher.
-- Web Now Playing Companion Extension on Chrome or Firefox
-# Features
-- Beautiful Dynamic Cover-based UI colors
-- Full Spotify (Desktop & Web Player) support
-- Full Youtube, Youtube Music, Soundcloud, and other web music players
-- Media controls & song progress bar
-- Full Volume control in all supporrted players
-- Hide skin when media player is not running
-# Installation
-Download the latest version here: https://github.com/mehdieft95/CoolWebPlayer/releases
+# SquarePlayer
+An sleek square player to control all your music. It supports all major music clients including Spotify, Apple Music, Youtube Music and many more.
+
+## Functionality
+
+### On Hover
+<img width="1080" alt="Screenshot 2023-07-02 014759" src="https://github.com/Meti0X7CB/SquarePlayer/assets/8690114/75da79d3-3b28-441b-be32-41ecf797a057">
+
+### Normal
+<img width="1080" alt="Screenshot 2023-07-02 014827" src="https://github.com/Meti0X7CB/SquarePlayer/assets/8690114/3149855d-5c2f-4f80-8604-47581429388c">
+
+## Minimum Requirements:
+- Windows 10 or higher
+- Rainmeter 4.5.17.3700 or higher
+## Features
+- Interactive and resposive and fully scalable UI
+- Full Spotify, Apple Music, Youtube Music, Soundcloud, and many web based clients
+- Stylis and customizable Media controls & song progress bar 
+- Automatic activity detection to hide skin when no media is open and running
+## Installation
+Download the latest version from [Releases](https://github.com/Meti0X7CB/SquarePlayer/releases) tab.
 Install the skin by double-clicking the .rmskin file and follow the steps in the installer.
-Install the lattest Web Now Playing for Rainmeter for your browser from https://github.com/tjhrulz/WebNowPlaying-BrowserExtension.
+### Optional
+You can install the WebNowPlaying-Redux plugin for your browser if you want the skin to work with your browser as well.
+You can Install the lattest WebNowPlaying-Redux for your browser from their [GitHub Page](https://github.com/keifufu/WebNowPlaying-Redux).
 
-The extension can be found in both the Chrome Web Store and the Firefox Addons Store.
-
-Enjoy the skin! 🎉
-# Note
-For Client based Spotify support make sure to install Spicetify-cli from https://github.com/khanhas/spicetify-cli.
-
-![alt text](https://i.imgur.com/L9x3PMP.png)
+## Special Thanks
+Special thanks to [keifufu](https://github.com/keifufu) and [tjhrulz](https://github.com/tjhrulz/) for making the WebNowPlaying-Redux. Without it this and many other rainmeter skins would not be possible to make.
