@@ -3,7 +3,11 @@ A sleek square player to control all your music. It supports all major music cli
 
 ## Functionality
 
+Default look With scaling of 1, primary color of white and highlight color of light green:
+
 https://github.com/Meti0X7CB/SquarePlayer/assets/8690114/1ac27322-6463-4ef7-975c-0957250ca1ad
+
+Note: You can always change the scaling, color and highlight color as you desire.
 
 ## Minimum Requirements:
 - Windows 10 or higher
