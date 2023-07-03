@@ -3,11 +3,7 @@ A sleek square player to control all your music. It supports all major music cli
 
 ## Functionality
 
-### On Hover
-<img width="1080" alt="Screenshot 2023-07-02 014759" src="https://github.com/Meti0X7CB/SquarePlayer/assets/8690114/75da79d3-3b28-441b-be32-41ecf797a057">
-
-### Normal
-<img width="1080" alt="Screenshot 2023-07-02 014827" src="https://github.com/Meti0X7CB/SquarePlayer/assets/8690114/3149855d-5c2f-4f80-8604-47581429388c">
+https://github.com/Meti0X7CB/SquarePlayer/assets/8690114/1ac27322-6463-4ef7-975c-0957250ca1ad
 
 ## Minimum Requirements:
 - Windows 10 or higher
