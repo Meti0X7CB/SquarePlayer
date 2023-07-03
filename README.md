@@ -15,7 +15,7 @@ Note: You can always change the scaling, color and highlight color as you desire
 - Windows 10 or higher
 - Rainmeter 4.5.17.3700 or higher
 ## Features
-- Interactive and responsive and fully scalable UI
+- Interactive, responsive and fully scalable UI
 - Fully supports Spotify, Apple Music, Youtube Music, Soundcloud, and many web based clients
 - Stylis and customizable Media controls & song progress bar 
 - Automatic activity detection to hide skin when no media is open and running
