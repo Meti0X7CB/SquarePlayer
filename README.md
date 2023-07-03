@@ -1,6 +1,8 @@
 # SquarePlayer
 A sleek square player to control all your music. It supports all major music clients including Spotify, Apple Music, Youtube Music and many more.
 
+![2](https://github.com/Meti0X7CB/SquarePlayer/assets/8690114/03c62f34-6a2b-4288-9650-6c400cd8ed83)
+
 ## Functionality
 
 Default look With scaling of 1, primary color of white and highlight color of light green:
