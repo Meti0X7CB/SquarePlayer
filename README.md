@@ -31,7 +31,7 @@ Requires [WebNowPlaying](https://wnp.keifufu.dev/extension/getting-started) brow
 All major streaming sites such as Youtube Music, SoundCloud and many more are supported. For the full list of supported sites, please refer to [this list](https://wnp.keifufu.dev/supported-sites).
 
 ## FAQ
-The following applications dont't fully make use of Window's SMTC API, however this can be overcome by installing the community built respected plugin for these applications.
+The following applications don't fully make use of Window's SMTC API, however this can be overcome by installing the community built respected plugin for these applications.
 
 MusicBee - https://github.com/ameer1234567890/mb_MediaControl
 
