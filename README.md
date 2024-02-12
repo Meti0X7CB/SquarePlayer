@@ -1,30 +1,55 @@
 # SquarePlayer
-A sleek square player to control all your music. It supports all major music clients including Spotify, Apple Music, Youtube Music and many more.
+A Windows 11 player widget for Windows 11 to control all your media.
 
-![2](https://github.com/Meti0X7CB/SquarePlayer/assets/8690114/03c62f34-6a2b-4288-9650-6c400cd8ed83)
-
-## Functionality
-
-Default look With scaling of 1, primary color of white and highlight color of light green:
-
-https://github.com/Meti0X7CB/SquarePlayer/assets/8690114/1ac27322-6463-4ef7-975c-0957250ca1ad
-
-Note: You can always change the scaling, color and highlight color as you desire.
+<img width="1130" alt="Cover2" src="https://github.com/Meti0X7CB/SquarePlayer/assets/8690114/7ad12cb4-cafe-4c48-9683-775c9e7a8a7f">
 
 ## Minimum Requirements:
-- Windows 10 or higher
-- Rainmeter 4.5.17.3700 or higher
-## Features
-- Interactive, responsive and fully scalable UI
-- Fully supports Spotify, Apple Music, Youtube Music, Soundcloud, and many web based clients
-- Stylis and customizable Media controls & song progress bar 
-- Automatic activity detection to hide skin when no media is open and running
-## Installation
-Download the latest version from [Releases](https://github.com/Meti0X7CB/SquarePlayer/releases) tab.
-Install the skin by double-clicking the .rmskin file and follow the steps in the installer.
-### Optional
-You can install the WebNowPlaying-Redux plugin for your browser if you want the skin to work with your browser as well.
-You can Install the lattest WebNowPlaying-Redux for your browser from their [GitHub Page](https://github.com/keifufu/WebNowPlaying-Redux).
+- Windows 11
+- Rainmeter 4.5.18
 
-## Special Thanks
-Special thanks to [keifufu](https://github.com/keifufu) and [tjhrulz](https://github.com/tjhrulz/) for making the WebNowPlaying-Redux. Without it this and many other rainmeter skins would not be possible to make.
+## Features
+- Scalable UI
+- SMTC support
+- WebNowPlaying support
+
+## Installation
+Download the latest version from the [Releases](https://github.com/Meti0X7CB/SquarePlayer/releases) tab.
+
+Install the skin by double-clicking the .rmskin file and follow the steps in the installer.
+
+Load any of the styles from rainmeter.
+
+## Supported Players
+### Native Windows applications 
+SquarePlayer supports every application that makes use of the [System Media Transport Controls API](https://learn.microsoft.com/en-us/uwp/api/windows.media.systemmediatransportcontrols?view=winrt-22621) out of the box.
+
+For the full list of native supported applications, please refer to [this list](https://github.com/ModernFlyouts-Community/ModernFlyouts/blob/main/docs/GSMTC-Support-And-Popular-Apps.md).
+
+### Browser based applications 
+Requires [WebNowPlaying](https://wnp.keifufu.dev/extension/getting-started) browser plugin to be installed on your browser.
+
+All major streaming sites such as Youtube Music, SoundCloud and many more are supported. For the full list of supported sites, please refer to [this list](https://wnp.keifufu.dev/supported-sites).
+
+## FAQ
+The following applications dont't fully make use of Window's SMTC API, however this can be overcome by installing the community built respected plugin for these applications.
+
+MusicBee - https://github.com/ameer1234567890/mb_MediaControl
+
+AIMP - https://www.aimp.ru/?do=catalog&rec_id=1097
+
+DeaDBeeF - https://github.com/DeaDBeeF-for-Windows/ddb_smtc
+
+iTunes - https://github.com/thewizrd/iTunes-SMTC
+
+Spicetify - https://github.com/tjhrulz/WebNowPlaying-BrowserExtension
+
+VLC (Desktop) - https://github.com/spmn/vlc-win10smtc
+
+Winamp - https://github.com/NanMetal/gen_smtc
+
+MPV - https://github.com/x0wllaar/MPV-SMTC
+
+Netease Cloud Music - https://github.com/BetterNCM/InfinityLink
+
+## Credits
+Special thanks to [keifufu](https://github.com/keifufu) and [tjhrulz](https://github.com/tjhrulz/) for the WebNowPlaying plugin and a big thank you to [TheAzack9](https://github.com/TheAzack9) and [khanhas](https://github.com/khanhas) for the FrostedGlass plugin.
