@@ -1,5 +1,5 @@
 # SquarePlayer
-A Windows 11 player widget for Windows 11 to control all your media.
+A player widget for Windows 11 to control all your media.
 
 <img width="1130" alt="Cover2" src="https://github.com/Meti0X7CB/SquarePlayer/assets/8690114/7ad12cb4-cafe-4c48-9683-775c9e7a8a7f">
 
