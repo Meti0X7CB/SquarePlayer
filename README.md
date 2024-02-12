@@ -20,10 +20,10 @@ Install the skin by double-clicking the .rmskin file and follow the steps in the
 Load any of the styles from rainmeter.
 
 ## Supported Players
-### Native Windows applications 
+### Windows applications 
 SquarePlayer supports every application that makes use of the [System Media Transport Controls API](https://learn.microsoft.com/en-us/uwp/api/windows.media.systemmediatransportcontrols?view=winrt-22621) out of the box.
 
-For the full list of native supported applications, please refer to [this list](https://github.com/ModernFlyouts-Community/ModernFlyouts/blob/main/docs/GSMTC-Support-And-Popular-Apps.md).
+For the full list of supported applications, please refer to [this list](https://github.com/ModernFlyouts-Community/ModernFlyouts/blob/main/docs/GSMTC-Support-And-Popular-Apps.md).
 
 ### Browser based applications 
 Requires [WebNowPlaying](https://wnp.keifufu.dev/extension/getting-started) browser plugin to be installed on your browser.
