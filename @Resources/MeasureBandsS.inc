@@ -5,6 +5,7 @@ Port = Output
 FFTSize = 1024
 FFTAttack = 75
 FFTDecay = 150
+Sensitivity = 40
 Bands = 10
 
 [MeasureBand0]
