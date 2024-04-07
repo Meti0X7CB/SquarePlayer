@@ -1,7 +1,7 @@
 # SquarePlayer
 A player widget for Windows 11 to control all your media.
 
-<img width="1130" alt="Cover2" src="https://cdn.discordapp.com/attachments/1211406685760135179/1216077717548830851/Screenshot_2024-03-09_123736.png?ex=65ff13a1&is=65ec9ea1&hm=7fd91a3abfb8d02747525980313bfc1b80f32a46acd2aeda57706affb943c247&">
+![Screenshot_2024-03-09_123736](https://github.com/Meti0X7CB/SquarePlayer/assets/8690114/09b01b3b-6240-480d-9763-10da475a2424)
 
 ## Minimum Requirements:
 - Windows 11
