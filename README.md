@@ -35,6 +35,3 @@ The following applications don't fully make use of Window's SMTC API, however th
 
 [MusicBee](https://github.com/ameer1234567890/mb_MediaControl), [AIMP](https://www.aimp.ru/?do=catalog&rec_id=1097
 ), [DeaDBeeF](https://github.com/DeaDBeeF-for-Windows/ddb_smtc), [iTunes](https://github.com/thewizrd/iTunes-SMTC), [VLC](https://github.com/spmn/vlc-win10smtc), [Winamp](https://github.com/NanMetal/gen_smtc), [MPV](https://github.com/x0wllaar/MPV-SMTC), [Netease Cloud Music](https://github.com/BetterNCM/InfinityLink)
-
-## Credits
-Special thanks to [keifufu](https://github.com/keifufu) and [tjhrulz](https://github.com/tjhrulz/) for the WebNowPlaying plugin and a big thank you to [TheAzack9](https://github.com/TheAzack9) and [khanhas](https://github.com/khanhas) for the FrostedGlass plugin.
