@@ -13,11 +13,11 @@ A player widget for Windows 11 to control all your media.
 - WebNowPlaying support
 
 ## Installation
-Download the latest version from the [Releases](https://github.com/Meti0X7CB/SquarePlayer/releases) tab.
+1- Download the latest version from the [Releases](https://github.com/Meti0X7CB/SquarePlayer/releases) tab.
 
-Install the skin by double-clicking the .rmskin file and follow the steps in the installer.
+2- Install the skin by double-clicking the .rmskin file and follow the steps in the installer.
 
-Load any of the styles from rainmeter.
+3- Load any of the styles from rainmeter.
 
 ## Supported Players
 ### Windows applications 
