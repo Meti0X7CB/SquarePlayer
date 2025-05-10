@@ -6,7 +6,7 @@ FFTSize = 2048
 FFTAttack = 75
 FFTDecay = 150
 Sensitivity = 40
-Bands = 20
+Bands = 25
 
 [MeasureBand0]
 Measure = Plugin
@@ -147,3 +147,38 @@ Plugin = AudioLevel
 Parent = MeasureAudio
 Type = Band
 BandIdx = 19
+
+[MeasureBand20]
+Measure = Plugin
+Plugin = AudioLevel
+Parent = MeasureAudio
+Type = Band
+BandIdx = 20
+
+[MeasureBand21]
+Measure = Plugin
+Plugin = AudioLevel
+Parent = MeasureAudio
+Type = Band
+BandIdx = 21
+
+[MeasureBand22]
+Measure = Plugin
+Plugin = AudioLevel
+Parent = MeasureAudio
+Type = Band
+BandIdx = 22
+
+[MeasureBand23]
+Measure = Plugin
+Plugin = AudioLevel
+Parent = MeasureAudio
+Type = Band
+BandIdx = 23
+
+[MeasureBand24]
+Measure = Plugin
+Plugin = AudioLevel
+Parent = MeasureAudio
+Type = Band
+BandIdx = 24

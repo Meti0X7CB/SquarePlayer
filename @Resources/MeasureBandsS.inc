@@ -2,7 +2,7 @@
 Measure = Plugin
 Plugin = AudioLevel
 Port = Output
-FFTSize = 1024
+FFTSize = 2048
 FFTAttack = 75
 FFTDecay = 150
 Sensitivity = 40
