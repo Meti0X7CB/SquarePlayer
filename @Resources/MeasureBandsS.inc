@@ -4,8 +4,8 @@ Plugin = AudioLevel
 Port = Output
 FFTSize = 2048
 FFTAttack = 75
-FFTDecay = 150
-Sensitivity = 40
+FFTDecay = 125
+Sensitivity = 50
 Bands = 10
 
 [MeasureBand0]
