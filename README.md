@@ -1,5 +1,5 @@
 # SquarePlayer
-> > A set of player widgets for Win 11
+> A set of player widgets for Win 11
 
 <img width="2276" height="1551" alt="Screenshot 2026-03-04 172615" src="https://github.com/user-attachments/assets/eeea3c69-7d9b-4ee1-beb4-0ebb52146671" />
 
