@@ -15,7 +15,7 @@
 - Translucent TB 2025.1+
 
 ## 📦 Installation
-Download the latest version from the [Releases](https://github.com/Meti0X7CB/WinTaskical/releases) tab.
+Download the latest version from the [Releases](https://github.com/Meti0X7CB/SquarePlayer/releases) tab.
   - Install the skin by double-clicking the .rmskin file and follow the steps in the installer.
   - Load any of the styles from rainmeter.
 
